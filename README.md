@@ -31,8 +31,7 @@ A web application that predicts smartphone price ranges using a machine learning
 
 1. Clone the repository
 ```bash
-git clone https://github.com/souradeepdutta/Mobile-Price-Predictor-using-AWS-Sagemaker.git
-cd smartphone-price-predictor
+https://github.com/Mirellawanessa/Mobile-Price-Predictor.git
 ```
 
 2. Install required packages
@@ -67,13 +66,28 @@ python app.py
 
 ## Screenshots
 
-![Smartphone Price Predictor Interface](./screenshot.png)
+![Smartphone Price Predictor Interface](https://github.com/Mirellawanessa/Mobile-Price-Predictor/blob/main/screenshot.png)
 *Smartphone Price Predictor Web Interface*
 
-## [Youtube Walkthrough](https://www.youtube.com/watch?v=WR_Yj6XPgUE)
-[![Video Title](https://img.youtube.com/vi/WR_Yj6XPgUE/maxresdefault.jpg)](https://www.youtube.com/watch?v=WR_Yj6XPgUE)
+## 👩‍💻 Developer
 
+<p>
+  <img 
+    align="left" 
+    width="80" 
+    src="https://github.com/Mirellawanessa/DIO-Trilha-Java-Basico/blob/main/GitHub/imagens/User.jpeg?raw=true"
+  />
+  <p>&nbsp;&nbsp;&nbsp;Mirella Wanessa<br>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Mirellawanessa">GitHub</a>&nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/mirellawanessa/">LinkedIn</a>&nbsp;|&nbsp;
+  <a href="https://www.instagram.com/myfilearchive">Instagram</a>
+  &nbsp;|&nbsp;</p>
+</p>
 
+---
+
+⌨️ with 💜 by [Mirella Wanessa](https://github.com/Mirellawanessa)
 
 
 
